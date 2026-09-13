@@ -59,17 +59,3 @@ def get_test_data( # Data para tests con parámetros x default
     return X_test, y_test
 
 
-def USV(X, K): # Ver diapos 6. Análisis de componentes principales
-    ux = X.mean(axis=0)
-    Xc = X - ux
-
-    U, s, Vt = np.linalg.svd(Xc, full_matrices=False)
-    V = Vt.T
-    S = np.diag(s)
-
-    Uk = U[:, :K]
-    Sk = S[:K, :K]
-    Vk = V[:, :K]
-
-    X_USV = Uk @ Sk
-    return X_USV, Vk
