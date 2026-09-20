@@ -1,0 +1,13 @@
+Los informes para trabajos prácticos deben cumplir:
+
+1. Carátula con nombre de la materia, Número de trabajo practico, Nombres y legajos de todos los integrantes del grupo.
+
+2. Breve introducción donde se describa en propias palabras (no copiado del enunciado) la problemática abordada en el TP y los objetivos del mismo.
+
+3. Debe contener los resultados de cada ejercicio solicitado en el enunciado, desarrollando y explicando en cada punto los resultados y detalles que se consideren pertinentes.
+
+4. Conclusiones generales, con un resumen breve y conciso comentando los puntos relevantes que aborda el trabajo y las dificultades encontradas (si fuera el caso). 
+
+5. No debe incluirse código fuente en el informe, ya que el código se presenta aparte.
+
+6. No debe copiarse parte del enunciado (por ejemplo, copiar literalmente lo que pide cada problema y/o la introducción)
